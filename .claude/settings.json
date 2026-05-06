@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Rscript:*)",
+      "Bash(R:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(cat:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(wc:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(mkdir:*)",
+      "Bash(rm:*)",
+      "Bash(git:*)",
+      "Bash(echo:*)",
+      "Bash(pwd:*)",
+      "Bash(date:*)",
+      "Bash(du:*)",
+      "Bash(which:*)",
+      "Read(/Users/thalescarvalho/.claude/**)"
+    ],
+    "deny": []
+  }
+}
