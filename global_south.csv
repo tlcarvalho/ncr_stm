@@ -1,0 +1,218 @@
+cow_abbrev,country_name,global_group
+AAB,Antigua & Barbuda,Global South
+AFG,Afghanistan,Global South
+ALB,Albania,Global South
+ALG,Algeria,Global South
+AND,Andorra,Global North
+ANG,Angola,Global South
+ARG,Argentina,Global South
+ARM,Armenia,Global South
+AUH,Austria-Hungary,Global South
+AUL,Australia,Global North
+AUS,Austria,Global North
+AZE,Azerbaijan,Global South
+BAD,Baden,Global South
+BAH,Bahrain,Global South
+BAR,Barbados,Global South
+BAV,Bavaria,Global South
+BEL,Belgium,Global North
+BEN,Benin,Global South
+BFO,Burkina Faso,Global South
+BHM,Bahamas,Global South
+BHU,Bhutan,Global South
+BLR,Belarus,Global South
+BLZ,Belize,Global South
+BNG,Bangladesh,Global South
+BOL,Bolivia,Global South
+BOS,Bosnia and Herzegovina,Global South
+BOT,Botswana,Global South
+BRA,Brazil,Global South
+BRU,Brunei,Global South
+BUI,Burundi,Global South
+BUL,Bulgaria,Global South
+CAM,Cambodia,Global South
+CAN,Canada,Global North
+CAO,Cameroon,Global South
+CAP,Cape Verde,Global South
+CDI,Ivory Coast,Global South
+CEN,Central African Republic,Global South
+CHA,Chad,Global South
+CHL,Chile,Global South
+CHN,China,Global South
+COL,Colombia,Global South
+COM,Comoros,Global South
+CON,Congo,Global South
+COS,Costa Rica,Global South
+CRO,Croatia,Global North
+CUB,Cuba,Global South
+CYP,Cyprus,Global North
+CZE,Czechoslovakia,Global South
+CZR,Czech Republic,Global North
+DEN,Denmark,Global North
+DJI,Djibouti,Global South
+DMA,Dominica,Global South
+DOM,Dominican Republic,Global South
+DRC,Democratic Republic of the Congo,Global South
+DRV,Vietnam,Global South
+ECU,Ecuador,Global South
+EGY,Egypt,Global South
+EQG,Equatorial Guinea,Global South
+ERI,Eritrea,Global South
+EST,Estonia,Global North
+ETH,Ethiopia,Global South
+ETM,East Timor,Global South
+FIJ,Fiji,Global South
+FIN,Finland,Global North
+FRN,France,Global North
+FSM,Federated States of Micronesia,Global South
+GAB,Gabon,Global South
+GAM,Gambia,Global South
+GDR,German Democratic Republic,Global South
+GFR,German Federal Republic,Global South
+GHA,Ghana,Global South
+GMY,Germany,Global North
+GNB,Guinea-Bissau,Global South
+GRC,Greece,Global North
+GRG,Georgia,Global South
+GRN,Grenada,Global South
+GUA,Guatemala,Global South
+GUI,Guinea,Global South
+GUY,Guyana,Global South
+HAI,Haiti,Global South
+HAN,Hanover,Global South
+HON,Honduras,Global South
+HSE,Hesse Electoral,Global South
+HSG,Hesse Grand Ducal,Global South
+HUN,Hungary,Global South
+ICE,Iceland,Global North
+IND,India,Global South
+INS,Indonesia,Global South
+IRE,Ireland,Global North
+IRN,Iran,Global South
+IRQ,Iraq,Global South
+ISR,Israel,Global North
+ITA,Italy,Global North
+JAM,Jamaica,Global South
+JOR,Jordan,Global South
+JPN,Japan,Global North
+KEN,Kenya,Global South
+KIR,Kiribati,Global South
+KOR,Korea,Global North
+KOS,Kosovo,Global South
+KUW,Kuwait,Global South
+KYR,Kyrgyzstan,Global South
+KZK,Kazakhstan,Global South
+LAO,Laos,Global South
+LAT,Latvia,Global North
+LBR,Liberia,Global South
+LEB,Lebanon,Global South
+LES,Lesotho,Global South
+LIB,Libya,Global South
+LIE,Liechtenstein,Global North
+LIT,Lithuania,Global North
+LUX,Luxembourg,Global North
+MAA,Mauritania,Global South
+MAC,Macedonia,Global South
+MAD,Maldives,Global South
+MAG,Madagascar,Global South
+MAL,Malaysia,Global South
+MAS,Mauritius,Global South
+MAW,Malawi,Global South
+MEC,Mecklenburg Schwerin,Global South
+MEX,Mexico,Global South
+MLD,Moldova,Global South
+MLI,Mali,Global South
+MLT,Malta,Global North
+MNC,Monaco,Global South
+MNG,Montenegro,Global South
+MOD,Modena,Global South
+MON,Mongolia,Global South
+MOR,Morocco,Global South
+MSI,Marshall Islands,Global South
+MYA,Myanmar,Global South
+MZM,Mozambique,Global South
+NAM,Namibia,Global South
+NAU,Nauru,Global South
+NEP,Nepal,Global South
+NEW,New Zealand,Global North
+NIC,Nicaragua,Global South
+NIG,Nigeria,Global South
+NIR,Niger,Global South
+NOR,Norway,Global North
+NTH,Netherlands,Global North
+OMA,Oman,Global South
+PAK,Pakistan,Global South
+PAL,Palau,Global South
+PAN,Panama,Global South
+PAP,Papal States,Global South
+PAR,Paraguay,Global South
+PER,Peru,Global South
+PHI,Philippines,Global South
+PMA,Parma,Global South
+PNG,Papua New Guinea,Global South
+POL,Poland,Global South
+POR,Portugal,Global North
+PRK,North Korea,Global South
+QAT,Qatar,Global South
+ROK,South Korea,Global North
+ROM,Romania,Global South
+RUS,Russia,Global South
+RVN,Republic of Vietnam,Global South
+RWA,Rwanda,Global South
+SAF,South Africa,Global South
+SAL,El Salvador,Global South
+SAU,Saudi Arabia,Global South
+SAX,Saxony,Global South
+SEN,Senegal,Global South
+SEY,Seychelles,Global South
+SIC,Two Sicilies,Global South
+SIE,Sierra Leone,Global South
+SIN,Singapore,Global North
+SKN,St. Kitts and Nevis,Global South
+SLO,Slovakia,Global North
+SLU,St. Lucia,Global South
+SLV,Slovenia,Global North
+SNM,San Marino,Global North
+SOL,Solomon Islands,Global South
+SOM,Somalia,Global South
+SPN,Spain,Global North
+SRI,Sri Lanka,Global South
+SSD,South Sudan,Global South
+STP,Sao Tome and Principe,Global South
+SUD,Sudan,Global South
+SUR,Suriname,Global South
+SVG,St. Vincent and the Grenadines,Global South
+SWA,Swaziland,Global South
+SWD,Sweden,Global North
+SWZ,Switzerland,Global North
+SYR,Syria,Global South
+TAJ,Tajikistan,Global South
+TAW,Taiwan,Global North
+TAZ,Tanzania,Global South
+THI,Thailand,Global South
+TKM,Turkmenistan,Global South
+TOG,Togo,Global South
+TON,Tonga,Global South
+TRI,Trinidad and Tobago,Global South
+TUN,Tunisia,Global South
+TUR,Turkey,Global South
+TUS,Tuscany,Global South
+TUV,Tuvalu,Global South
+UAE,United Arab Emirates,Global South
+UGA,Uganda,Global South
+UKG,United Kingdom,Global North
+UKR,Ukraine,Global South
+URU,Uruguay,Global South
+USA,United States of America,Global North
+UZB,Uzbekistan,Global South
+VAN,Vanuatu,Global South
+VEN,Venezuela,Global South
+WRT,Wuerttemburg,Global South
+WSM,Samoa,Global South
+YAR,Yemen Arab Republic,Global South
+YEM,Yemen,Global South
+YPR,Yemen People's Republic,Global South
+YUG,Yugoslavia,Global South
+ZAM,Zambia,Global South
+ZAN,Zanzibar,Global South
+ZIM,Zimbabwe,Global South

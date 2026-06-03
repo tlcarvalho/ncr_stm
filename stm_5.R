@@ -362,10 +362,11 @@ summary(effects)
 
 # --- Extract coefficients for ggplot -----------------------------------------
 extract_effects_df <- function(effects_obj, K, region_map_list) {
-  dummy_names  <- names(region_map_list)
+  dummy_names     <- names(region_map_list)
+  effects_summary <- summary(effects_obj)   # compute once; $tables[[k]] is then valid
   results <- list()
   for (k in 1:K) {
-    tbl <- summary(effects_obj, topics = k)$tables[[k]]
+    tbl <- effects_summary$tables[[k]]
     for (d in dummy_names) {
       row_idx <- grep(paste0("^", d), rownames(tbl))
       if (length(row_idx) > 0) {
@@ -435,7 +436,7 @@ ggplot(effects_df,
     plot.subtitle   = element_text(color = "grey40", size = 9),
     plot.caption    = element_text(color = "grey40"),
     legend.position = "right"
-  )
+  ) 
 
 ggsave("stm_regional_effects_heatmap.png", width = 12, height = 7, dpi = 300)
 
